@@ -8,10 +8,10 @@ The goal is to understand how lifestyle behaviors, diet, and physical activity i
 ---
 
 ## Research Questions
-1. How does **fruit and vegetable consumption per day** relate to **BMI** among U.S. adults? ✅ Completed
+1. How does **fruit and vegetable consumption per day** relate to **BMI** among U.S. adults?
 2. Identify **clusters of U.S. states** based on lifestyle behaviors.
 3. Does **income level** affect obesity rates among adults?
-4. Do **states with higher physical activity** participation have lower obesity rates? ✅ Completed
+4. Do **states with higher physical activity** participation have lower obesity rates?
 
 ---
 
