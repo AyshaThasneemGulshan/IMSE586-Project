@@ -38,7 +38,7 @@ I specifically worked on **Research Questions 1 and 4**:
 
 ## Dataset
 **Nutrition, Physical Activity, and Obesity - BRFSS dataset**  
-Source: [CDC BRFSS](https://www.cdc.gov/brfss/)  
+Source: https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system
 Contains state-level statistics on nutrition, physical activity, and obesity.
 
 ---
