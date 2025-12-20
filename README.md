@@ -64,5 +64,5 @@ Contains state-level statistics on nutrition, physical activity, and obesity.
 ---
 
 ## Connect with Us
-- GitHub: [Your GitHub link]
-- LinkedIn: [Your LinkedIn link]
+- GitHub: https://github.com/soundarya-ds
+- LinkedIn: www.linkedin.com/in/soundaryalakshmi-rajendran
